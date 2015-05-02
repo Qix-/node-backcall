@@ -1,7 +1,7 @@
 {
   "name": "backcall",
   "description": "Reverses callback parameter order",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [ "callback", "order", "parameter", "argument", "library",
     "backcall" ],
   "homepage": "https://github.com/Qix-/node-backcall",
