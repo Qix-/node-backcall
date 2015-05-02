@@ -1,12 +1,16 @@
 {
   "name": "backcall",
   "description": "Reverses callback parameter order",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": [ "callback", "order", "parameter", "argument", "library",
     "backcall" ],
   "homepage": "https://github.com/Qix-/node-backcall",
   "bugs": "https://github.com/Qix-/node-backcall/issues",
   "license": "mit",
   "author": "JD Ballard (github.com/Qix-)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qix-/node-backcall.git"
+  },
   "main": "lib/backcall.js"
 }
